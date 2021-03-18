@@ -76,31 +76,31 @@ The soft pitch Readme should contain the following information in an outline for
 
 Time Limit: 10 mins
 
-1). **00:00 - 01:00: Elevator Pitch**
+1. **00:00 - 01:00: Elevator Pitch**
 
 - Example format: _When TARGET USERS want/need THIS THING, I help provide them a solution by DOING THIS._ - [Kayla Abanda](https://kaylabanda.com/2020/03/09/the-easiest-way-to-create-a-killer-elevator-pitch/)
 - A one- or two-sentence statement that conveys the why and how of your product.
 
 ![Elevator Pitch](https://media.giphy.com/media/P8XjmO1TTX3Nu/giphy.gif)
 
-2). **1:00 - 3:00: User Stories**
+2. **1:00 - 3:00: User Stories**
 
 - Who is your User?
 - What value does your app offer to the user?
 
-  3). **3:00 - 5:00: How**
+3. **3:00 - 5:00: How**
 
 - What does the structure of your app look like under the hood?
 - What data/information will you need from the user/third party sources?
 - What tech stack are you using to achieve this?
 
-  4). **6:00 - 7:00: Resource Ask**
+4. **6:00 - 7:00: Resource Ask**
 
 - _Resources: information, technical answers, and or time with Instructional Team/TAs_
 - What resources do you need from instructors/TAs to complete the task at hand?
 - If we give you resources, how will you go about using them/implementing them?
 
-  5). **7:00 - 10:00: Q&A with Instructional Staff**
+5. **7:00 - 10:00: Q&A with Instructional Staff**
 
 - Three minutes for staff to ask questions related to pitch
 
