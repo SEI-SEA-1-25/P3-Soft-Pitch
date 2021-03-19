@@ -1,8 +1,8 @@
-# Hard Pitch
+# 🔮 Hard Pitch 🔮
 
 ### App Name:
 
-current working title: Madam's Parlor of Fortune
+current working title: 🧙‍♀️ Madam's Parlor of Fortune 🧙‍♀️
 
 ### Description:
 
