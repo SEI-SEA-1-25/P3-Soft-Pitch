@@ -3,7 +3,7 @@
 ## Travel App TBD
 
 ## Cue Elevator Music
-Our app is designed to help users stay organized while traveling. Through our app, users will be able to create a profile and save information around different trips that they are planning. Each trip will include all the tools necessary to stay organized, think ahead and find informational relevant to their travel needs. Additionally, users will be able to save information throughout their trip, to reference later or share with friends.
+Our app is designed to help users stay organized while traveling. Through our app, users will be able to create a profile and save information around different trips that they are planning. Each trip will include all the tools necessary to stay organized, think ahead and find information relevant to their travel needs. Additionally, users will be able to save information throughout their trip, to reference later or share with friends.
 
 ## User Stories
 
@@ -51,4 +51,20 @@ These are the tools that a user can access:
 
 As a user, I want to be able to add other users to trips to access the trips and make changes collaboratively.
 ### Technologies
+
+Technologies used for App:
+1. React framework (manipulate the DOM based on application data and response to user interaction)
+2. Express.js, Node.js (manage routes, handling requests and views)
+3. Mongoose (create all necessary for project models)
+4. MongoDB (save and store users: authorization info, trips, expenses, checklists etc)
+5. Bcrypt, Json web token (take care of security)
+6. Axios (pull up backend and API’s data)
+7. Dotenv package (hide/ store secret important information)
+8. Rowdy-logger (help to visualize routes)
+
 ### Status Set to Success  
+https://openweathermap.org/current#min
+
+https://rapidapi.com/skyscanner/api/skyscanner-flight-search/endpoints
+
+https://developers.amadeus.com/self-service/category/hotel/api-doc/hotel-search
