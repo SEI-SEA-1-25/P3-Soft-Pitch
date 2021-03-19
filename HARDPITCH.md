@@ -15,12 +15,16 @@ Our user is someone on-the-go seeking advise. Our app will be a one-stop-shop th
 2.  Once logged in the user's home page greets them. It also reveals the navigation bar.
 
 3.  The navigation bar offers 3 choices:
-    a. Logout
-    b. User's Homepage
-    c. Crystal ball
-4.  The user's homepage is a space unique to them. There is a display of past readings.
 
-5.  The user can click to generate advise from the magic 8 ball or crystal ball, and it will show in their homepage automatically.
+    a. Logout
+
+    b. User's Homepage
+
+    c. Crystal ball
+
+4.  The user's homepage is a space unique to them. There is a display of past readings, so they can reflect on them.
+
+5.  The user can click to generate advise from the crystal ball, and it will show in their homepage automatically. And the user will stay on the crystal ball page.
 
 6.  Log out returns you to the sign in page, with a temporary modal that says "Bye!"
 
