@@ -1,17 +1,27 @@
 Time Limit: 10 mins
 
 00:00 - 01:00: Elevator Pitch
-Example format: When TARGET USERS want/need THIS THING, I help provide them a solution by DOING THIS. - Kayla Abanda
-A one- or two-sentence statement that conveys the why and how of your product.
-****Elevator Pitch***
-SEMUEL-- you will need to prepare something for this.
-
-1:00 - 3:00: 
-****User Stories****
 Our user is someone on-the-go seeking advise. 
 Our app will be a one-stop-shop that offers many different types of wisdom and advice. 
 Whether you need a daily horoscope, a reading from a fortune teller or words of wisdom from a magic-8 ball, 
 you are covered. Also, the user may log back into their account to see past dated readings.
+SEMUEL
+
+1:00 - 3:00: 
+****User Stories****
+3. Your user stories:
+The user first sees the log in page. 
+They are given the option to sign in or sign up.
+Once logged in the user's home page greets them. 
+It also reveals the navigation bar.
+The navigation bar offers 4 choices: 
+    a. Logout 
+    b. User's Homepage 
+    c. Magic 8-ball 
+    d. Crystal ball (STRETCH)
+The user's homepage is a space unique to them. There is a display of past readings.
+The user can click to generate advise from the magic 8 ball or crystal ball, and it will show in their homepage.
+Log out returns you to the sign in page.
 ERIN
 
 3:00 - 5:00: 
